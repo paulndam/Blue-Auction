@@ -1,0 +1,55 @@
+
+[
+    
+    {
+      "id":0,
+      "productName":"Mercedz-Benz",
+      "image":"🚙",
+      "from":"stutgart",
+      "nutrients":"v8 engine",
+      "quantity":" 5 🚙",
+      "price":"45.50",
+      "organic":false,
+      "description":"best car ever"
+    },
+    {
+      "id":1,
+      "productName":"Mac-Book Pro",
+      "image":"💻",
+      "from":"U.S.A",
+      "nutrients":"M1 Chip",
+      "quantity":" 15 💻",
+      "price":"35.50",
+      "organic":false,
+      "description":"best laptop"
+    },
+    {
+      "id":2,
+      "productName":"Bag",
+      "image":"🎒",
+      "from":"Italy",
+      "nutrients":"Pure Leather",
+      "quantity":" 5 🎒 ",
+      "price":"5.50",
+      "organic":false,
+      "description":"Swaggy Bag"
+    },
+    {
+      "id": 3,
+      "productName": "Sweet Corncobs",
+      "image": "🌽",
+      "from": "Germany",
+      "nutrients": "Vitamin C, Magnesium",
+      "quantity": "2 🌽",
+      "price": "2.00",
+      "organic": true,
+      "description": "Also known as maize, corn is one of the most popular cereal grains in the world. Popcorn and sweet corn are commonly eaten varieties, but refined corn products are also widely consumed, frequently as ingredients in foods. These include tortillas, tortilla chips, polenta, cornmeal, corn flour, corn syrup, and corn oil. Whole-grain corn is as healthy as any cereal grain, rich in fiber and many vitamins, minerals, and antioxidants."
+    }
+
+    
+  ]
+
+
+
+
+  
